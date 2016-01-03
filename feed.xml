@@ -5,9 +5,39 @@
     <description>This is a blog about iOS programming.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Jan 2016 00:36:06 +0800</pubDate>
-    <lastBuildDate>Sun, 03 Jan 2016 00:36:06 +0800</lastBuildDate>
+    <pubDate>Sun, 03 Jan 2016 18:34:43 +0800</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 18:34:43 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>今天很残酷，明天也很残酷，后天很美好</title>
+        <description>&lt;p&gt;今天终于可以上线了，从2015到2016&lt;/p&gt;
+
+&lt;p&gt;老罗语录：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;每一个不曾起舞的日子都是对生命的辜负
+-From an idiot&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如果拿会不会游泳来评判一条鱼的能力，那么它会永远认为自己很愚蠢。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;任何团队的骨干。。。灯泡，发动机。。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;结束。 The end&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+        <link>/%E5%95%B0%E5%97%A6/2016/01/03/test/</link>
+        <guid isPermaLink="true">/%E5%95%B0%E5%97%A6/2016/01/03/test/</guid>
+        
+        
+        <category>啰嗦</category>
+        
+      </item>
     
   </channel>
 </rss>
